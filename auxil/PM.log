@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.19)  22 MAY 2023 23:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.19)  24 MAY 2023 20:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -548,6 +548,11 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \backup@length=\skip76
 \ar@cellbox=\box63
 ))
+(C:\Users\linus.lundqvist2\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumer
+ate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
 
 Package biblatex Warning: Load 'inputenc' before biblatex.
 
@@ -561,23 +566,23 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 LaTeX Warning: Unused global option(s):
     [11p].
 
-No file PM.aux.
+(C:/Webb\Laboration-5-Ellara\auxil\PM.aux)
 \openout1 = `PM.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (C:\Users\linus.lundqvist2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
 supp-pdf.mkii
@@ -587,12 +592,12 @@ supp-pdf.mkii
 \scratchbox=\box64
 \nofMPsegments=\count435
 \nofMParguments=\count436
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks26
 \MPscratchCnt=\count437
 \MPscratchDim=\dimen161
 \MPnumerator=\count438
 \makeMPintoPDFobject=\count439
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\linus.lundqvist2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
 \epstopdf-base.sty
@@ -620,8 +625,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'PM.bbl' not found.
 
 No file PM.bbl.
-Package biblatex Info: Reference section=0 on input line 23.
-Package biblatex Info: Reference segment=0 on input line 23.
+Package biblatex Info: Reference section=0 on input line 24.
+Package biblatex Info: Reference segment=0 on input line 24.
 
 (C:\Users\linus.lundqvist2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\col
 or.sty
@@ -636,52 +641,94 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (C:\Users\linus.lundqvist2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
 hcolor.ltx))
 Package translations Info: no dictionary file `translations-basic-dictionary-sw
-edish.trsl' found. on input line 23.
+edish.trsl' found. on input line 24.
 <NTI Gymnasiet_Symbol_print_svart.png, id=1, 208.78pt x 184.69pt>
 File: NTI Gymnasiet_Symbol_print_svart.png Graphic file (type png)
 <use NTI Gymnasiet_Symbol_print_svart.png>
 Package pdftex.def Info: NTI Gymnasiet_Symbol_print_svart.png  used on input li
-ne 47.
+ne 48.
 (pdftex.def)             Requested size: 137.9979pt x 122.08176pt.
  [1
 
 {C:/Users/linus.lundqvist2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <.
 /NTI Gymnasiet_Symbol_print_svart.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+<images/1Volt.jpg, id=12, 2260.445pt x 4015.0pt>
+File: images/1Volt.jpg Graphic file (type jpg)
+<use images/1Volt.jpg>
+Package pdftex.def Info: images/1Volt.jpg  used on input line 80.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+<images/1Ampere.jpg, id=13, 2260.445pt x 4015.0pt>
+File: images/1Ampere.jpg Graphic file (type jpg)
+<use images/1Ampere.jpg>
+Package pdftex.def Info: images/1Ampere.jpg  used on input line 83.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+ [1 <./images/1Volt.jpg>]
+Overfull \hbox (4.97623pt too wide) in paragraph at lines 84--85
+[]\T1/cmr/m/n/10 sedan kopp-la mul-ti-me-tern ige-nom re-sistorn och s‰tt mul-t
+i-me-tern pÂ 200mA,
+ []
+
+<images/2Volt.jpg, id=22, 2260.445pt x 4015.0pt>
+File: images/2Volt.jpg Graphic file (type jpg)
+<use images/2Volt.jpg>
+Package pdftex.def Info: images/2Volt.jpg  used on input line 102.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+[2 <./images/1Ampere.jpg>]
+<images/2Ampere.jpg, id=26, 2260.445pt x 4015.0pt>
+File: images/2Ampere.jpg Graphic file (type jpg)
+<use images/2Ampere.jpg>
+Package pdftex.def Info: images/2Ampere.jpg  used on input line 105.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+
+PM.tex:113: Missing $ inserted.
+<inserted text> 
+                $
+l.113 ...•ste vi l√§gga ihop resistanserna, R = R_
+                                                  1 + R_2.Vilket d√• ger oss...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 113.
+
+Missing character: There is no Â in font cmr10!
+PM.tex:113: Missing $ inserted.
+<inserted text> 
+                $
+l.113 ... R_1 + R_2.Vilket d√• ger oss, $100\Omega
+                                                  $ + $100\Omega$ = $200\Ome...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[3 <./images/2Volt.jpg> <./images/2Ampere.jpg>]
+<images/3Volt.jpg, id=32, 2260.445pt x 4015.0pt>
+File: images/3Volt.jpg Graphic file (type jpg)
+<use images/3Volt.jpg>
+Package pdftex.def Info: images/3Volt.jpg  used on input line 125.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+<images/3Ampere.jpg, id=33, 2260.445pt x 4015.0pt>
+File: images/3Ampere.jpg Graphic file (type jpg)
+<use images/3Ampere.jpg>
+Package pdftex.def Info: images/3Ampere.jpg  used on input line 128.
+(pdftex.def)             Requested size: 103.50105pt x 183.79166pt.
+ [4 <./images/3Volt.jpg> <./images/3Ampere.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 140--143
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
-
- []
-
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
-
- []
-
-[2] (C:/Webb\Laboration-5-Ellara\auxil\PM.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                PM
-(biblatex)                and rerun LaTeX afterwards.
-
+[5] (C:/Webb\Laboration-5-Ellara\auxil\PM.aux)
 Package logreq Info: Writing requests to 'PM.run.xml'.
 \openout1 = `PM.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14859 strings out of 476339
- 317141 string characters out of 5782927
- 1855340 words of memory out of 5000000
- 35159 multiletter control sequences out of 15000+600000
+ 14939 strings out of 476339
+ 318903 string characters out of 5782927
+ 1854340 words of memory out of 5000000
+ 35227 multiletter control sequences out of 15000+600000
  520013 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,5n,68p,677b,1171s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,5n,68p,677b,1170s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\linus.lundqvist2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
 dpi600\ecbx1200.pk> <C:\Users\linus.lundqvist2\AppData\Local\MiKTeX\fonts/pk/lj
 four/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\linus.lundqvist2\AppData\Local\M
@@ -692,11 +739,16 @@ s\linus.lundqvist2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 en/ec/dpi600\ecbx1728.pk> <C:\Users\linus.lundqvist2\AppData\Local\MiKTeX\fonts
 /pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\linus.lundqvist2\AppData\L
 ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/linus.lund
-qvist2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on C:/Webb\Laboration-5-Ellara\out\PM.pdf (3 pages, 66874 bytes)
-.
+qvist2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/linus.lundqvist2/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><C:/Users/linus.lundqvist2/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/linus.lundqvist2/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/linus.lundqvi
+st2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on C:/Webb\Laboration-5-Ellara\out\PM.pdf (6 pages, 3406141 byte
+s).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
+ 239 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
